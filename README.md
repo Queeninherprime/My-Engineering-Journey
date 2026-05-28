@@ -25,7 +25,7 @@ Hi, I'm **Haoua Tamaivou** — a Network Engineering student and aspiring SOC An
 |---|---|---|
 | ISC2 CC (Cybersecurity) | 5/5 Domains Complete | ISC2 |
 | KC7 Foundation (Rap Beef) | Completed | KC7 Cyber |
-| Cisco Networking Academy | In Progress | Cisco |
+| Network Basics| In Progress | Cisco |
 
 ---
 
