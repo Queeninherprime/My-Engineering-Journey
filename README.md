@@ -33,17 +33,17 @@ Hi, I'm **Haoua Tamaivou** — a Network Engineering student and aspiring SOC An
 
 ```
 MY-ENGINEERING-JOURNEY/
-├── Year-1/
-│   ├── 01-Course-Name/
-│   │   ├── README.md
-│   │   ├── notes.md
-│   │   └── real-world-use.md
-├── Year-2/
-├── Certifications/
-│   ├── ISC2-CC/
-│   └── KC7-Foundation/
-└── README.md
-```
+│
+├── README.md  ✅
+│
+└── Certifications/
+    └── ISC2-CC/
+        ├── README.md  ✅ Already done
+        ⬜ Domain-1-Security-Principles.md
+        ⬜ Domain-2-Business-Continuity.md
+        ⬜ Domain-3-Access-Controls.md
+        ⬜ Domain-4-Network-Security.md
+        └── Domain-5-Security-Operations.md
 
 ---
 
