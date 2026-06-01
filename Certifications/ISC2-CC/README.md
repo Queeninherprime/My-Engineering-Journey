@@ -1,22 +1,10 @@
 # ISC2 Certified in Cybersecurity (CC)
-**Issuer:** ISC2  
-**Status:** ✅ Completed  
-**Year:** 2026  
-**Exam Format:** CAT (Computerized Adaptive Testing)  
-**Questions:** 100–125 | **Time:** 120 minutes  
-**Passing Score:** 700/1000  
+
 
 ---
 
 ## The 5 Domains
 
-| Domain | Topic | Exam Weight |
-|---|---|---|
-| 1 | Security Principles | 26% |
-| 2 | Business Continuity, DR & Incident Response | 10% |
-| 3 | Access Controls Concepts | 22% |
-| 4 | Network Security | 24% |
-| 5 | Security Operations | 18% |
 
 ---
 
