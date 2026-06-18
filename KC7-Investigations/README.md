@@ -15,18 +15,21 @@ used by real SOC analysts daily.
 
 ## My Progress
 
-### Security Analyst I
-| # | Investigation | Date | Certificate ID | Status |
-|---|---|---|---|---|
-| 1 | Rap Beef |  ✅ Complete |
-| 2 | How To Play KC7 | ✅ Complete |
-| 3 | CloutHaus | 2026 | — | pending |
-| 4 | Valdorian Times  | ✅ Complete |
-| 5 | VirusTotal Fundamentals | — | — | ⬜ Pending |
-| 6 | Jojo's Hospital Ransomware | — | — | ⬜ Pending |
+## 🏆 SECURITY ANALYST I — COMPLETE!
+**Badge earned:** June 18, 2026
+
+All 6 modules successfully completed:
+1. ✅ Rap Beef
+2. ✅ How To Play KC7
+3. ✅ CloutHaus
+4. ✅ Valdorian Times
+5. ✅ VirusTotal Fundamentals
+6. ✅ Jojo's Hospital
+
+
 
 ### Security Analyst II
-🔲 Not started yet
+In progress
 
 ### Security Analyst III
 🔲 Not started yet
