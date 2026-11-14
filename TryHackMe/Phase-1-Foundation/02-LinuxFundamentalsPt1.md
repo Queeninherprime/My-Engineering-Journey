@@ -12,3 +12,7 @@
 -  >> redirects to output and does not override a file
 - Find : searches for a file
 - grep: searches for a content within a file
+
+
+
+   my achievement " https://tryhackme.com/room/linuxfundamentalspt15vm?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&share_date=2026-11-14&sharerId=6a2fa2d9540609a13e7628e0 "
