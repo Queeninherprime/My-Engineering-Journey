@@ -1,0 +1,25 @@
+# 05 - Search Skills
+
+
+**Achievement Link:** *https://tryhackme.com/room/searchskillscS?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&share_date=2026-11-16&sharerId=6a2fa2d9540609a13e7628e0*  
+**Date Completed:** November 16, 2026  
+
+## 🎯 Room Objective
+Learn how to efficiently search the internet and leverage specialized cybersecurity search engines, threat intelligence platforms, and technical documentation.
+
+---
+
+## 🔍 Specialized Search Tools & Documentation
+
+| Tool / Platform | Primary Purpose | Key Details |
+| :--- | :--- | :--- |
+| **Shodan** | IoT & Internet-Connected Device Search | Continuously scans the internet to index exposed devices, open ports, services, and approximate geographic locations. |
+| **VirusTotal** | Malware & Indicator Analysis | Analyzes suspicious files, URLs, domains, and file hashes across multiple antivirus engines to determine if they are malicious and assess their severity. |
+| **Vulnerability Databases (NVD / CVE)** | Tracking Known Vulnerabilities | Standardized catalog of publicly disclosed security flaws formatted as **`CVE-YEAR-NUMBER`** (Common Vulnerabilities and Exposures). |
+| **GitHub** | Exploit & Patch Research | Searching a `CVE-YEAR-NUMBER` on GitHub helps security researchers and red teamers locate Proof-of-Concept (PoC) exploit scripts, affected source code, or vendor patches. |
+| **`man` (Manual Pages)** | Built-in CLI Technical Documentation | Running `man <command>` directly in the Linux terminal displays the official manual, usage syntax, and available flags for command-line tools. |
+
+---
+
+## 💡 Key Takeaways
+Effective cybersecurity work relies heavily on knowing *where* to look—both online and locally. Tools like **Shodan** expose internet-facing attack surfaces, **VirusTotal** speeds up triage on suspicious indicators, and pairing **CVE databases** with **GitHub** bridges the gap between discovering a vulnerable service and understanding how it works. Meanwhile, built-in **`man` pages** provide fast, offline technical documentation right inside the terminal when learning new CLI tools.
