@@ -1,0 +1,33 @@
+# 06 - Security Awareness
+
+
+**Achievement Link:** *https://tryhackme.com/room/securityawarenessintro?utm_campaign=social_share&utm_medium=social&utm_content=room&utm_source=copy&share_date=2026-11-16&sharerId=6a2fa2d9540609a13e7628e0*  
+**Date Completed:** November 16, 2026  
+
+## 🎯 Room Objective
+Understand why human awareness is the first line of defense in an organization, recognize common cyber hygiene gaps, and categorize cyber threat actors by their motivations.
+
+---
+
+## 🛡️ Why Security Awareness Matters
+* **Everyone Is a Target:** Anyone inside an organization with access to systems or company databases can be targeted by attackers—security is every employee's responsibility, not just the IT team's.
+* **The Human Factor & Cyber Hygiene:** Most breaches succeed due to human error and weak cyber hygiene, such as clicking malicious phishing links, reusing weak passwords, or neglecting software updates and patches.
+* **Breach Verification (`Have I Been Pwned`):** Tools like [Have I Been Pwned](https://haveibeenpwned.com/) aggregate known data breaches so users can check whether their email address or credentials have been exposed and immediately reset compromised passwords.
+
+---
+
+## 🎭 Cyber Threat Actors & Motivations
+
+| Threat Actor | Primary Motivation | Description |
+| :--- | :--- | :--- |
+| **Nation-State / APTs** | Geopolitical / Espionage | Government-backed Advanced Persistent Threats targeting critical infrastructure, intelligence, or rival states. |
+| **Cybercriminals** | Financial Gain | Organized groups or individuals using ransomware, phishing, and data theft for profit. |
+| **Insider Threats** | Revenge, Financial, or Negligence | Current or former employees abusing legitimate access (intentionally or accidentally). |
+| **Thrill-Seekers / Script Kiddies** | Fun / Curiosity / Reputation | Individuals hacking for excitement, bragging rights, or personal challenge without deep ideological or financial goals. |
+| **Hacktivists** | Political / Social Ideology | Attackers defacing websites or leaking data to promote a political, social, or ethical message. |
+| **Cyber Terrorists** | Ideological Violence / Disruption | Threat actors using cyberattacks to cause widespread fear, physical harm, or severe societal disruption. |
+
+---
+
+## 💡 Key Takeaways
+Technical defenses alone cannot stop an attack if an employee unknowingly hands over credentials or leaves systems unpatched. Combining strong **cyber hygiene**, continuous **employee security awareness training**, and proactive breach monitoring (like **Have I Been Pwned**) drastically reduces an organization's attack surface.
