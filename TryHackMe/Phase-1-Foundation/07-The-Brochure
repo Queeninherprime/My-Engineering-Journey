@@ -1,0 +1,16 @@
+# TryHackMe: The Brochure (OSINT)
+- **Event:** Hacker Holidays — Day 0
+- **Category:** Open Source Intelligence (OSINT)
+- **Difficulty:** Easy
+- **Tools:** Image Metadata Inspection, Instagram OSINT, CyberChef
+
+## Summary
+This challenge tests fundamental OSINT pivoting and data-decoding skills. Starting from a promotional resort brochure, the objective was to trace public social media relationships and decode a fragmented message.
+
+## Methodology
+1. **File Analysis:** Inspected the downloadable brochure image for EXIF metadata and embedded strings. With no hidden metadata present, pivoted to visual clues in the text.
+2. **Social Media Enumeration:** Searched Instagram for the resort mentioned in the brochure and examined its public following list to discover the secondary account belonging to "Vera".
+3. **Decoding with CyberChef:** Identified three Base64-encoded string fragments split across separate posts. Combined the fragments in order and applied the **From Base64** recipe in CyberChef to retrieve the flag (`THM{[REDACTED]}`).
+
+## Key Takeaway
+Publicly visible organizational links (such as corporate social media "Following" lists) frequently expose staff accounts and secondary attack surfaces. Additionally, Base64 is strictly an encoding scheme—never a substitute for encryption.
